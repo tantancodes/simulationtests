@@ -11,6 +11,7 @@ mujoco.viewer.launch(model)                       # opens the window with the do
 
 ## run it with 
 ## cd ~/Documents/scene2sim/notebooks
-##python view.py
+## python view.py
 
 
+## double click, then control + right drag to manipulate
